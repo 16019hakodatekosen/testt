@@ -14,3 +14,7 @@
 1. 番号3 
 
 ![説明文](./chibikko_gang_girl.png  "ポップアップ文字")
+
+ [ぐーぐる](https://www.google.co.jp/)
+ 
+ [testページ](./test.html) 
